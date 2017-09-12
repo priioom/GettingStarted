@@ -1,6 +1,6 @@
 <h2 align="center" style="color:red"> Automatic Question-paper generator </h2>
 
-<p>--- When the application starts the user authentication takes place.</p>
+<p>- When the application starts the user authentication takes place.</p>
 <p>--- After successful user authentication, the program will show Dashboard of details entry about Departments, Subjects, Broad questions and MCQ’s and then asks for number of questions to be generated in written or as in MCQ.</p>
 <p>Step 3: Clicking on the left side Department Bar this will show Add department and Manage Department sections.</p>
 <p>Step 4: Then clicking on the Subjects Bar this will show Add subject and Manage subject sections.</p>
