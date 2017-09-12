@@ -1,5 +1,1 @@
-<p align="center"> # Automatic Question-paper generator </p
-
-### Try this
-
-<p align="center"> Yo</p
+<h2 align="center"> # Automatic Question-paper generator </h2>
