@@ -5,6 +5,11 @@
 ```diff
    + Languages used: HTML,CSS,JS,PHP (Laravel-5.4)
 ```
+```diff
++ this text is highlighted in green
++ Languages used: HTML,CSS,JS,PHP (Laravel-5.4)
+- this text is highlighted in red
+```
 
 <h3>Use Case Modeling and Description</h3>
 
