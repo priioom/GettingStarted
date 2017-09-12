@@ -1,13 +1,13 @@
 <h2 align="center" style="color:red"> Automatic Question-paper generator </h2>
 
-Step 1: When the application starts the user authentication takes place.
-Step 2: After successful user authentication, the program will show Dashboard of details entry about Departments, Subjects, Broad questions and MCQ’s and then asks for number of questions to be generated in written or as in MCQ.
-Step 3: Clicking on the left side Department Bar this will show Add department and Manage Department sections.
-Step 4: Then clicking on the Subjects Bar this will show Add subject and Manage subject sections.
-Step 5: Next comes the Question bank Bar includes Broad Question and MCQ unit.
-Step 6: In Broad question dropdown bar it also have Add and Manage section as well.  
-Step 7: For question entry click to ADD in Broad Question and MCQ unit to add both types of questions.
-Step 8: In Broad question entry page there will be an upper Dropdown box section for designing the final question paper look. That section will have column like ( Department, Subject, Chapter, Question type, Difficulty level, Bloom’s level, Question marks, Appeared year, Question options, Duration of exam etc. ).
+<p>Step 1: When the application starts the user authentication takes place.</p>
+<p>Step 2: After successful user authentication, the program will show Dashboard of details entry about Departments, Subjects, Broad questions and MCQ’s and then asks for number of questions to be generated in written or as in MCQ.</p>
+<p>Step 3: Clicking on the left side Department Bar this will show Add department and Manage Department sections.</p>
+<p>Step 4: Then clicking on the Subjects Bar this will show Add subject and Manage subject sections.</p>
+<p>Step 5: Next comes the Question bank Bar includes Broad Question and MCQ unit.</p>
+<p>Step 6: In Broad question dropdown bar it also have Add and Manage section as well.  </p>
+<p>Step 7: For question entry click to ADD in Broad Question and MCQ unit to add both types of questions.</p>
+<p>Step 8: In Broad question entry page there will be an upper Dropdown box section for designing the final question paper look. That section will have column like ( Department, Subject, Chapter, Question type, Difficulty level, Bloom’s level, Question marks, Appeared year, Question options, Duration of exam etc. ).</p>
 Step 9: After adding a question it can keep as published or unpublished and there must a Edit and Delete button in Manage unit after clicking Save question box.
 Step 10: When the number of questions is specified, the user is asked for mentioning the particular subject and topics to be referred from previously stored question banks.
 Step 11: Finally the user needs to select the difficulty level for generating the test paper.
