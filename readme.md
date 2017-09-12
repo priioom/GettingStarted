@@ -1,5 +1,7 @@
 <h2 align="center"> Automatic Question-paper generator </h2>
 
+<p align="center"> Automatic Question-paper generator is a web application build with PHP's Laravel Framefowk (Version 5.4). The use of this application is to generate question papers based on the specifications given by the user.This application needs a database of questions to generate question sets.A subject, Department, Questions and New Users can be added and managed very easily.Users can download or print the pdf version of the generated question paper. Every question paper is saved in the database for future usages. The user can add as many questions as he/she wants. The user also can create an unlimited number of Question papers (PDFs).</p>
+
 <h3>Technical specifications</h3>
 
 ```diff
