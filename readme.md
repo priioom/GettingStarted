@@ -4,9 +4,9 @@
 
 ```diff
 + Languages used: HTML,CSS,JS,PHP (Laravel-5.4).
-+ Database used : SQL Server.
+- Database used : SQL Server.
 + Blade syntax used very frequently.
-+ Cross-Site Request Forgery (CSRF) Protected useing csrf token.
+- Cross-Site Request Forgery (CSRF) Protected useing csrf token.
 + Laravel's native Bcrypt used for Hashing passwords.
 ```
 
