@@ -1,7 +1,7 @@
-<h2 align="center" style="color:red"> Automatic Question-paper generator </h2>
+<h2 align="center"> Automatic Question-paper generator </h2>
 
 <h3>Use Case Modeling and Description</h3>
-
+<hr>
 * When the application starts the user authentication takes place.
 * After successful user authentication, the program will show Dashboard of details entry about Departments, Subjects, Broad questions and MCQ’s and then asks for number of questions to be generated in written or as in MCQ.
 * Clicking on the left side Department Bar this will show Add department and Manage Department sections.
