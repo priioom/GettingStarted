@@ -9,7 +9,8 @@
 + Cross-Site Request Forgery (CSRF) Protected useing csrf token.
 + Laravel's native Bcrypt used for Hashing passwords.
 
-+ k
+- 10 tables used in the database
+- Database collation: utf8mb4_unicode_ci
 ```
 
 <h3>Use Case Modeling and Description</h3>
