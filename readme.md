@@ -3,12 +3,11 @@
 <h3>Technical specifications</h3>
 
 ```diff
-   + Languages used: HTML,CSS,JS,PHP (Laravel-5.4)
-```
-```diff
-+ this text is highlighted in green
-+ Languages used: HTML,CSS,JS,PHP (Laravel-5.4)
-- this text is highlighted in red
++ Languages used: HTML,CSS,JS,PHP (Laravel-5.4).
++ Database used : SQL Server.
++ Blade syntax used very frequently.
++ Cross-Site Request Forgery (CSRF) Protected useing csrf token.
++ Laravel's native Bcrypt used for Hashing passwords.
 ```
 
 <h3>Use Case Modeling and Description</h3>
