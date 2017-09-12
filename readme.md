@@ -1,1 +1,1 @@
-<h2 align="center"> # Automatic Question-paper generator </h2>
+<h2 align="center" style="color:red"> Automatic Question-paper generator </h2>
