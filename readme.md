@@ -1,5 +1,11 @@
 <h2 align="center"> Automatic Question-paper generator </h2>
 
+<h3>Technical specifications</h3>
+
+```diff
+   + Languages used: HTML,CSS,JS,PHP (Laravel-5.4)
+```
+
 <h3>Use Case Modeling and Description</h3>
 
 * When the application starts the user authentication takes place.
